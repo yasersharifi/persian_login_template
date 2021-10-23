@@ -4,13 +4,12 @@
 <br>
   <br>
   <h3>دمو قالب اول : </h3>
-<img src="https://user-images.githubusercontent.com/79104019/138558386-c2e4d3e1-e203-4046-8d6d-8ae4d6af5b2b.png
+<img src="https://user-images.githubusercontent.com/79104019/138558630-724b97fb-7b38-42e1-80b0-849f2845caa0.png
 ">
   <br>
   <h3>دمو قالب دوم : </h3>
-  
-    <img src="https://user-images.githubusercontent.com/79104019/138558469-fb871fc8-4f9f-489d-a72d-50687be3d381.png
-">
+
+    <img src="https://user-images.githubusercontent.com/79104019/138558663-a3d8d69f-edb6-4ccc-b78b-179d65315f07.png">
   
    <br>
   <h3>دمو قالب سوم : </h3>
