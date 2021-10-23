@@ -8,4 +8,6 @@
 
 - کپی بر روی سیستم خودتان
 </div>
-`https://github.com/yasersharifi/persian_login_template.git`
+<code>
+<pre>git clone https://github.com/yasersharifi/persian_login_template.git</pre>
+</code>
