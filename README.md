@@ -4,8 +4,7 @@
 <br>
   <br>
   <h3>دمو قالب اول : </h3>
-<img src="https://user-images.githubusercontent.com/79104019/138558630-724b97fb-7b38-42e1-80b0-849f2845caa0.png
-">
+<img src="https://user-images.githubusercontent.com/79104019/138558630-724b97fb-7b38-42e1-80b0-849f2845caa0.png">
   <br>
   <h3>دمو قالب دوم : </h3>
 
@@ -14,8 +13,7 @@
    <br>
   <h3>دمو قالب سوم : </h3>
   
-  <img src="![login_03](https://user-images.githubusercontent.com/79104019/138558485-474f1a28-7112-44fb-8383-b153f04aa085.png)
-">
+  <img src="https://user-images.githubusercontent.com/79104019/138558485-474f1a28-7112-44fb-8383-b153f04aa085.png">
   
 
 
