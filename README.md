@@ -5,15 +5,14 @@
   <br>
   <h3>دمو قالب اول : </h3>
 <img src="https://user-images.githubusercontent.com/79104019/138558630-724b97fb-7b38-42e1-80b0-849f2845caa0.png">
-  <br>
-  <h3>دمو قالب دوم : </h3>
+<br>
+<h3>دمو قالب دوم : </h3>
 
-    <img src="https://user-images.githubusercontent.com/79104019/138558663-a3d8d69f-edb6-4ccc-b78b-179d65315f07.png">
+<img src="https://user-images.githubusercontent.com/79104019/138558771-9972aaec-e4fa-421b-ab39-0ca9dceff862.png">
+<br>
+<h3>دمو قالب سوم : </h3>
   
-   <br>
-  <h3>دمو قالب سوم : </h3>
-  
-  <img src="https://user-images.githubusercontent.com/79104019/138558485-474f1a28-7112-44fb-8383-b153f04aa085.png">
+<img src="https://user-images.githubusercontent.com/79104019/138558485-474f1a28-7112-44fb-8383-b153f04aa085.png">
   
 
 
