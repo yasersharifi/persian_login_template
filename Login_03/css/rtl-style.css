@@ -1,0 +1,14 @@
+body {
+    direction: rtl;
+}
+html, body, ul, li, p, a, div, span, section, h1, h2, h3, h4, h5, h6, header, footer, button, label {
+    font-family: Vazir !important;
+}
+.login100-form-title {font-family: Vazir}
+.input100 {font-family: Vazir !important;padding: 0 80px 0 10px !important;}
+.focus-input100::after {
+    left: unset !important;
+    right: 35px !important;
+}
+.alert-validate::before {right: unset !important;left: 10px !important;padding: 4px 10px 4px 25px !important;}
+.alert-validate::after {right: unset !important;left: 15px !important;}
